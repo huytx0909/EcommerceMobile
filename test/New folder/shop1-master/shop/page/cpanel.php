@@ -1,0 +1,1 @@
+<p><a href = "index.php?page=admin&action=adminlogout" style ="padding: 20px 25px; text-decoration: none;">Log out </a></p>
